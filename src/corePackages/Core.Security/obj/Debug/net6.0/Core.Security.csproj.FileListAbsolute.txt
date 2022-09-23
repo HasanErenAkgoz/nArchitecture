@@ -1,0 +1,15 @@
+D:\Projelerim\C#\nArchitecture\src\corePackages\Core.Security\bin\Debug\net6.0\Core.Security.deps.json
+D:\Projelerim\C#\nArchitecture\src\corePackages\Core.Security\bin\Debug\net6.0\Core.Security.dll
+D:\Projelerim\C#\nArchitecture\src\corePackages\Core.Security\bin\Debug\net6.0\Core.Security.pdb
+D:\Projelerim\C#\nArchitecture\src\corePackages\Core.Security\bin\Debug\net6.0\Core.Persistence.dll
+D:\Projelerim\C#\nArchitecture\src\corePackages\Core.Security\bin\Debug\net6.0\Core.Persistence.pdb
+D:\Projelerim\C#\nArchitecture\src\corePackages\Core.Security\obj\Debug\net6.0\Core.Security.csproj.AssemblyReference.cache
+D:\Projelerim\C#\nArchitecture\src\corePackages\Core.Security\obj\Debug\net6.0\Core.Security.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projelerim\C#\nArchitecture\src\corePackages\Core.Security\obj\Debug\net6.0\Core.Security.AssemblyInfoInputs.cache
+D:\Projelerim\C#\nArchitecture\src\corePackages\Core.Security\obj\Debug\net6.0\Core.Security.AssemblyInfo.cs
+D:\Projelerim\C#\nArchitecture\src\corePackages\Core.Security\obj\Debug\net6.0\Core.Security.csproj.CoreCompileInputs.cache
+D:\Projelerim\C#\nArchitecture\src\corePackages\Core.Security\obj\Debug\net6.0\Core.Security.csproj.CopyComplete
+D:\Projelerim\C#\nArchitecture\src\corePackages\Core.Security\obj\Debug\net6.0\Core.Security.dll
+D:\Projelerim\C#\nArchitecture\src\corePackages\Core.Security\obj\Debug\net6.0\refint\Core.Security.dll
+D:\Projelerim\C#\nArchitecture\src\corePackages\Core.Security\obj\Debug\net6.0\Core.Security.pdb
+D:\Projelerim\C#\nArchitecture\src\corePackages\Core.Security\obj\Debug\net6.0\ref\Core.Security.dll

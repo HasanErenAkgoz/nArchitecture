@@ -1,0 +1,15 @@
+D:\Projelerim\C#\nArchitecture\src\demoProjects\rentACar\Domain\bin\Release\net6.0\Domain.deps.json
+D:\Projelerim\C#\nArchitecture\src\demoProjects\rentACar\Domain\bin\Release\net6.0\Domain.dll
+D:\Projelerim\C#\nArchitecture\src\demoProjects\rentACar\Domain\bin\Release\net6.0\Domain.pdb
+D:\Projelerim\C#\nArchitecture\src\demoProjects\rentACar\Domain\bin\Release\net6.0\Core.Persistence.dll
+D:\Projelerim\C#\nArchitecture\src\demoProjects\rentACar\Domain\bin\Release\net6.0\Core.Persistence.pdb
+D:\Projelerim\C#\nArchitecture\src\demoProjects\rentACar\Domain\obj\Release\net6.0\Domain.csproj.AssemblyReference.cache
+D:\Projelerim\C#\nArchitecture\src\demoProjects\rentACar\Domain\obj\Release\net6.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projelerim\C#\nArchitecture\src\demoProjects\rentACar\Domain\obj\Release\net6.0\Domain.AssemblyInfoInputs.cache
+D:\Projelerim\C#\nArchitecture\src\demoProjects\rentACar\Domain\obj\Release\net6.0\Domain.AssemblyInfo.cs
+D:\Projelerim\C#\nArchitecture\src\demoProjects\rentACar\Domain\obj\Release\net6.0\Domain.csproj.CoreCompileInputs.cache
+D:\Projelerim\C#\nArchitecture\src\demoProjects\rentACar\Domain\obj\Release\net6.0\Domain.csproj.CopyComplete
+D:\Projelerim\C#\nArchitecture\src\demoProjects\rentACar\Domain\obj\Release\net6.0\Domain.dll
+D:\Projelerim\C#\nArchitecture\src\demoProjects\rentACar\Domain\obj\Release\net6.0\refint\Domain.dll
+D:\Projelerim\C#\nArchitecture\src\demoProjects\rentACar\Domain\obj\Release\net6.0\Domain.pdb
+D:\Projelerim\C#\nArchitecture\src\demoProjects\rentACar\Domain\obj\Release\net6.0\ref\Domain.dll
