@@ -1,12 +1,5 @@
-D:\Projelerim\C#\nArchitecture\src\corePackages\Core.Mailing\bin\Debug\net6.0\Core.Mailing.deps.json
-D:\Projelerim\C#\nArchitecture\src\corePackages\Core.Mailing\bin\Debug\net6.0\Core.Mailing.dll
-D:\Projelerim\C#\nArchitecture\src\corePackages\Core.Mailing\bin\Debug\net6.0\Core.Mailing.pdb
 D:\Projelerim\C#\nArchitecture\src\corePackages\Core.Mailing\obj\Debug\net6.0\Core.Mailing.csproj.AssemblyReference.cache
 D:\Projelerim\C#\nArchitecture\src\corePackages\Core.Mailing\obj\Debug\net6.0\Core.Mailing.GeneratedMSBuildEditorConfig.editorconfig
 D:\Projelerim\C#\nArchitecture\src\corePackages\Core.Mailing\obj\Debug\net6.0\Core.Mailing.AssemblyInfoInputs.cache
 D:\Projelerim\C#\nArchitecture\src\corePackages\Core.Mailing\obj\Debug\net6.0\Core.Mailing.AssemblyInfo.cs
 D:\Projelerim\C#\nArchitecture\src\corePackages\Core.Mailing\obj\Debug\net6.0\Core.Mailing.csproj.CoreCompileInputs.cache
-D:\Projelerim\C#\nArchitecture\src\corePackages\Core.Mailing\obj\Debug\net6.0\Core.Mailing.dll
-D:\Projelerim\C#\nArchitecture\src\corePackages\Core.Mailing\obj\Debug\net6.0\refint\Core.Mailing.dll
-D:\Projelerim\C#\nArchitecture\src\corePackages\Core.Mailing\obj\Debug\net6.0\Core.Mailing.pdb
-D:\Projelerim\C#\nArchitecture\src\corePackages\Core.Mailing\obj\Debug\net6.0\ref\Core.Mailing.dll
