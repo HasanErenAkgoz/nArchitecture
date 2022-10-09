@@ -1,4 +1,12 @@
+D:\Projelerim\C#\nArchitecture\src\corePackages\Core.ElasticSearch\bin\Debug\net6.0\Core.ElasticSearch.deps.json
+D:\Projelerim\C#\nArchitecture\src\corePackages\Core.ElasticSearch\bin\Debug\net6.0\Core.ElasticSearch.dll
+D:\Projelerim\C#\nArchitecture\src\corePackages\Core.ElasticSearch\bin\Debug\net6.0\Core.ElasticSearch.pdb
+D:\Projelerim\C#\nArchitecture\src\corePackages\Core.ElasticSearch\obj\Debug\net6.0\Core.ElasticSearch.csproj.AssemblyReference.cache
 D:\Projelerim\C#\nArchitecture\src\corePackages\Core.ElasticSearch\obj\Debug\net6.0\Core.ElasticSearch.GeneratedMSBuildEditorConfig.editorconfig
 D:\Projelerim\C#\nArchitecture\src\corePackages\Core.ElasticSearch\obj\Debug\net6.0\Core.ElasticSearch.AssemblyInfoInputs.cache
 D:\Projelerim\C#\nArchitecture\src\corePackages\Core.ElasticSearch\obj\Debug\net6.0\Core.ElasticSearch.AssemblyInfo.cs
 D:\Projelerim\C#\nArchitecture\src\corePackages\Core.ElasticSearch\obj\Debug\net6.0\Core.ElasticSearch.csproj.CoreCompileInputs.cache
+D:\Projelerim\C#\nArchitecture\src\corePackages\Core.ElasticSearch\obj\Debug\net6.0\Core.ElasticSearch.dll
+D:\Projelerim\C#\nArchitecture\src\corePackages\Core.ElasticSearch\obj\Debug\net6.0\refint\Core.ElasticSearch.dll
+D:\Projelerim\C#\nArchitecture\src\corePackages\Core.ElasticSearch\obj\Debug\net6.0\Core.ElasticSearch.pdb
+D:\Projelerim\C#\nArchitecture\src\corePackages\Core.ElasticSearch\obj\Debug\net6.0\ref\Core.ElasticSearch.dll
